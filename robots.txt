@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://pnbphilosophy.github.io/al-folio/sitemap.xml
+Sitemap: https://pnbphilosophy.github.io/sitemap.xml
